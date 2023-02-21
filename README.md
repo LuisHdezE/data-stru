@@ -16,7 +16,6 @@ Configurar las variables de entorno en un archivo .env en la raíz del proyecto.
 Crear la base de datos y ejecutar las migraciones: npm run db:init
 Iniciar el servidor: npm run start.
 
-
 ## bubbleSort
 
 Función en JavaScript que implementa el algoritmo de ordenamiento de burbuja para ordenar un arreglo. La misma toma un arreglo como argumento y devuelve el arreglo ordenado en orden ascendente utilizando el algoritmo de ordenamiento de burbuja. El algoritmo de burbuja compara pares adyacentes de elementos en el arreglo y los intercambia si están en el orden incorrecto. En cada iteración, el algoritmo compara cada par de elementos en el arreglo y mueve el elemento más grande al final del arreglo. Esto se repite hasta que no haya más elementos que intercambiar.
