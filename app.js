@@ -1,9 +1,10 @@
 require("colors");
 
 const { inquirerMenu, pausa } = require("./helpers/inquirer");
-
+//const Tarea = require("./models/tarea");
 //const { mostrarMenu, pausa } = require("./helpers/mensajes");
 
+//const tarea = new Tarea("Crear");
 //console.clear();
 
 const main = async () => {
@@ -18,3 +19,5 @@ const main = async () => {
 };
 
 main();
+
+//console.log({ tarea });
