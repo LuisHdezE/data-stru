@@ -1,7 +1,7 @@
 {
   "name": "data-stru",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ejemplos de algoritmos y estructuras de datos en JavaScript",
   "main": "bubble.js",
   "scripts": {
     "start": "node app.js",
@@ -14,7 +14,6 @@
   "dependencies": {
     "colors": "^1.4.0",
     "inquirer": "^7.3.3",
-    "nodemon": "^2.0.20",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
