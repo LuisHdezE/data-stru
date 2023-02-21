@@ -1,7 +1,17 @@
+const { mostrarMenu, pausa } = require("./helpers/mensajes");
+
 require("colors");
-const bubbleSort = require("./lib/bubble.js");
 
-const arr = [43, 5, 66, 8, 2, 7, 3, 4, 6, 9];
+console.clear();
 
-const arr2 = bubbleSort(arr);
-console.log(arr2);
+const main = async () => {
+  let opt = "";
+  do {
+    opt = await mostrarMenu();
+    console.log({ opt });
+
+    if (opt !== "0") await pausa();
+  } while (opt !== "0");
+};
+
+main();

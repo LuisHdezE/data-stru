@@ -1,6 +1,6 @@
 # Bienvenido a la documentación del proyecto
 
-Esta aplicación es una herramienta de consola en JavaScript que proporciona una serie de ejemplos para diferentes estructuras de datos. Cuenta con un menú que permite al usuario seleccionar la estructura de datos que desea aprender y ejecutar ejemplos de su implementación en tiempo real. Las estructuras de datos disponibles incluyen, entre otras, arreglos, objetos, listas vinculadas, pilas y colas. La aplicación es ideal para programadores de JavaScript que deseen familiarizarse con las diferentes estructuras de datos disponibles en este lenguaje y cómo se implementan en la práctica.
+Esta aplicación es una herramienta de consola en JavaScript que proporciona una serie de ejemplos para diferentes algoritmos y estructuras de datos. Cuenta con un menú que permite al usuario seleccionar la opción que desea aprender y ejecutar ejemplos de su implementación en tiempo real. Las opciones disponibles incluyen, entre otras, algoritmos de clasificación, búsqueda y recorrido, así como estructuras de datos como arreglos, objetos, listas vinculadas, pilas y colas. La aplicación es ideal para programadores de JavaScript que deseen aprender cómo se implementan diferentes algoritmos y estructuras de datos en este lenguaje y cómo se pueden utilizar para resolver problemas y optimizar el rendimiento del código.
 
 - Arreglos
 - Objetos
