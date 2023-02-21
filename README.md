@@ -12,9 +12,8 @@ Esta aplicación es una herramienta de consola en JavaScript que proporciona una
 
 Clonar el repositorio: git clone <https://github.com/tu-usuario/tu-proyecto.git>
 Instalar las dependencias: npm install
-Configurar las variables de entorno en un archivo .env en la raíz del proyecto.
-Crear la base de datos y ejecutar las migraciones: npm run db:init
-Iniciar el servidor: npm run start.
+
+Iniciar la aplicacion: npm run start.
 
 ## bubbleSort
 
